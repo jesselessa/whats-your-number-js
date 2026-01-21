@@ -14,7 +14,7 @@
 
 ## Démo<a name="demo"></a>
 
-Vous pouvez jouer à ce jeu en cliquant [ici](https://jesselessa.github.io/whats-your-number-js/).
+Vous pouvez jouer à ce jeu en cliquant [ici](https://whatsyournumber.jesselessa.dev/).
 
 ## Technologies utilisées<a name="technos"></a>
 
