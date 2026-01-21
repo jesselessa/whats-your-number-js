@@ -19,7 +19,7 @@ body {
   align-items: center;
   min-height: 90vh;
   padding: 1rem;
-  background: url("./images/numbers.jpg") no-repeat center/cover;
+  background: url("../images/numbers.jpg") no-repeat center/cover;
 }
 h1 {
   text-align: center;
@@ -122,6 +122,8 @@ footer {
 }
 footer a {
   margin-top: 0.5rem;
+  color: white;
+  text-decoration: none;
 }
 footer p,
 .year {
